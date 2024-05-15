@@ -1,0 +1,4 @@
+//this script inserts a document in the school collection 
+// an attribute name with value “Holberton school” is found in hte document 
+
+db.school.insert({ name: 'Holberton school' })

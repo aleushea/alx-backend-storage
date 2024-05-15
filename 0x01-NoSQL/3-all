@@ -1,0 +1,4 @@
+// this script lists all documents in the collection school
+// the database name can be passed optionally
+
+db.school.find()
